@@ -34,4 +34,8 @@ public class FileDto implements Serializable {
 
     private String filename;
 
+    // Дата загрузки
+    //Время загрузки
+    // Кто отправил
+
 }
